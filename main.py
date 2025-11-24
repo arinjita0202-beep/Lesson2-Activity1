@@ -1,0 +1,6 @@
+print("Hello World")
+print(69)
+print("こんにちは")
+print("My fav no.",67)
+print("Hello my name is", end= " ")
+print('Candy')
